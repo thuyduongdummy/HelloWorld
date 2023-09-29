@@ -1,3 +1,11 @@
 package OCA_SE8;
 
-public class InfiniteLoop {
+class SpecialStringClass {
+    String str;
+    int i = '5';
+
+    SpecialStringClass(String str) {
+        this.str = str;
+    }
+}
+

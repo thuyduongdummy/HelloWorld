@@ -1,24 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="903ddc77-8d01-4b36-a748-748f36f52f5f" name="Changes" comment="" />
+    <list default="true" id="903ddc77-8d01-4b36-a748-748f36f52f5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/AntMan/AntMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/AntMan/Shrinkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/AntMan/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ParentChild/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ParentChild/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ParentChild/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingCHallenge3/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge1/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge1/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge1/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge2/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge2/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge4/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge4/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge4/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge4/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChallenge4/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChallenge4/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingChalllenge5/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Add100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Add100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/ArrayIJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/ArrayIJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/BooleanRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/BooleanRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/CatchOutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/CatchOutException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/CharSequenceStringObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/CharSequenceStringObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/DryFruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/DryFruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/LocalDateEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/LocalDateEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/MinusAPlusPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/MinusAPlusPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/ObjectPlusLiteral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/ObjectPlusLiteral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/POD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/POD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/RemoveNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/RemoveNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/SpecialStringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/SpecialStringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/StrEqualsSb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/StrEqualsSb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/AbstractAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/MainArg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/MainArg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/MyLocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/MyLocalDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test1/VETO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test1/VETO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test2/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test2/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test2/ListInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test2/ListInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/PostfixPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/PostfixPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/SpaceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/SpaceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/SumStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/SumStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test3/objError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test3/objError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/ArrayNotNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/ArrayNotNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/ArrayNullList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/ArrayNullList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/CatAndDeer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/CatAndDeer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Deer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Deer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/EgStringPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/EgStringPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/EqualsIsEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/EqualsIsEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/FinalBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/FinalBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/GetMonthValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/GetMonthValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/ISODate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/ISODate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/JamesGosling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/JamesGosling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/JavaWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/JavaWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/PrintA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/PrintA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/PrivateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/PrivateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/ResAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/ResAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/StringMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/StringMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/catchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/catchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/doubleOrDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/doubleOrDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/intArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/intArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/mPrefixPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/mPrefixPostfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/sbAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/sbAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test4/wtf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test4/wtf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/AvailableSeats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/AvailableSeats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Derived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Derived.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/BaseDerived/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Book/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Book/TestBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Car/TestCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Car/TestCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Div50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Div50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Flag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Flag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/FlagReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/FlagReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ILogger/ILogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ILogger/ILogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ILogger/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ILogger/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/MN/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Multiplier/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Multiplier/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Multiplier/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Multiplier/Multiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/NewMainM/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/OverloadM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/OverloadM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/SQLException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/SQLException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Sellable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Sellable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/Sellable/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/SpecialSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/SpecialSymbols.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/TryDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/TryDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Test5/ValueOfLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Test5/ValueOfLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/TestOfPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/TestOfPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/TestOfSpecialString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/TestOfSpecialString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/TestOfStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/TestOfStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/TestOfStudentMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/TestOfStudentMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Exams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Exams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/HappyTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/HappyTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/ParkRanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/ParkRanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/RollerSkate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/RollerSkate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/SortingEmptyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/SortingEmptyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Toy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/Vararg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/Vararg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/Theory/WhackAnException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/Theory/WhackAnException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/add/ArrayOfDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/add/ArrayOfDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCA_SE8/add/list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCA_SE8/add/list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Writing_a_question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Writing_a_question.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AbtAVEZKQAgf8hZdsANvhNtxQv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/duonguy/IdeaProjects/HelloWorld&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OCA_SE8.Theory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OCA_SE8.Test5.ParentChild.Test">
+    <configuration name="OCA_SE8.Test5.Div50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCA_SE8.Test5.Div50" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCA_SE8.Test5.AntMan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCA_SE8.Test5.ParentChild.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCA_SE8.Test5.ParentChild.Test" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCA_SE8.Test5.ParentChild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCA_SE8.Test5.ValueOfLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCA_SE8.Test5.ValueOfLength" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCA_SE8.Test5.AntMan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCA_SE8.Test5.ShapeSquare.SpecialSymbols" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCA_SE8.Test5.ShapeSquare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCA_SE8.Test5.AntMan.Test" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCA_SE8.Test5.AntMan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OCA_SE8.Test5.ParentChild.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.OCA_SE8.Test5.ValueOfLength" />
+        <item itemvalue="Application.SpecialSymbols" />
+        <item itemvalue="Application.OCA_SE8.Test5.Div50" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,9 +276,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655289974976</updated>
-      <workItem from="1655289977039" duration="1000" />
+      <workItem from="1655289977039" duration="7096000" />
+      <workItem from="1655475591840" duration="14456000" />
+      <workItem from="1655611049345" duration="27797000" />
+      <workItem from="1675160169412" duration="21000" />
+      <workItem from="1688976037296" duration="8212000" />
+      <workItem from="1689130150818" duration="3032000" />
+      <workItem from="1689147329763" duration="7368000" />
+      <workItem from="1689306271703" duration="4678000" />
+      <workItem from="1690185250399" duration="2848000" />
+      <workItem from="1690254850329" duration="14782000" />
+      <workItem from="1690429733000" duration="1016000" />
+      <workItem from="1690946273719" duration="4402000" />
+      <workItem from="1691046803583" duration="3923000" />
+      <workItem from="1691138657032" duration="1953000" />
+      <workItem from="1691376859436" duration="5373000" />
+      <workItem from="1691464450834" duration="2700000" />
+      <workItem from="1691548433112" duration="1419000" />
+      <workItem from="1691568011901" duration="2560000" />
+      <workItem from="1692159996523" duration="3165000" />
+      <workItem from="1692326827900" duration="2664000" />
+      <workItem from="1692611063057" duration="1227000" />
+      <workItem from="1692693416485" duration="1274000" />
+      <workItem from="1692778252264" duration="1423000" />
+      <workItem from="1693206659462" duration="1904000" />
+      <workItem from="1693474147761" duration="950000" />
+      <workItem from="1693898077465" duration="1383000" />
+      <workItem from="1693967969379" duration="1890000" />
+      <workItem from="1694162188861" duration="1039000" />
+      <workItem from="1694399184853" duration="2415000" />
+      <workItem from="1694486619223" duration="1727000" />
+      <workItem from="1694660729429" duration="7867000" />
+      <workItem from="1694747940063" duration="6194000" />
+      <workItem from="1695117215330" duration="1284000" />
+      <workItem from="1695178253971" duration="4126000" />
+      <workItem from="1695284236764" duration="9257000" />
+      <workItem from="1695799128353" duration="1520000" />
+      <workItem from="1695800680954" duration="9863000" />
+      <workItem from="1695898588911" duration="3594000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +330,47 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OCA_SE8/TestOfSpecialString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OCA_SE8/Test5/ShapeSquare/SpecialSymbols.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OCA_SE8/Test5/AntMan/Test.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OCA_SE8/Test4/CatAndDeer.java</url>
+          <line>7</line>
+          <properties class="OCA_SE8.Test4.CatAndDeer" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OCA_SE8/Test5/ValueOfLength.java</url>
+          <line>3</line>
+          <properties class="OCA_SE8.Test5.ValueOfLength" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$Exercise2.ic" NAME="Exercise2 Coverage Results" MODIFIED="1655375894649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

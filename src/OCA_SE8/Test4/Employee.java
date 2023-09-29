@@ -1,2 +1,4 @@
-package OCA_SE8.Test4;public class Employee {
+package OCA_SE8.Test4;
+
+public class Employee {
 }
